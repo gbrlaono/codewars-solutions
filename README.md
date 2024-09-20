@@ -41,7 +41,7 @@ Finally, within each difficulty level folder, you'll find the files with my solu
 
 Each file contains the following sections:
 
-- **codewars link**: A direct link to the exercise on Codewars so you can access the kata and solve it on your own.
+- **kata link**: A direct link to the exercise on Codewars so you can access the kata and solve it on your own.
 - **instructions**: The original instructions for the exercise.
 - **my solution**: My solution to the kata with comments detailing what I did to solve it.
 - **test cases**: To verify the functionality of the solution in a console.
